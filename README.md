@@ -10,13 +10,15 @@ Terrorism, in its broadest sense, is the use of Violence and fear to achieve an 
 - To Build a dash app to allow users interact with the outcome of this projects.
 
 **Source of Data :**
+
 For this project, the [Global Terrorism Database(GTD)]("www.start.umd.edu/gtd/"), a database of terrorist incidents from 1970 up to 2020(Although some years was excluded), was used. The dataset can be downloaded in preferred format from www.start.umd.edu/gtd/
 
 
 ## Table of Contents
-- [Exploratory Data Analysis of The Global Terrorism Data set.]()
-- [Prediction of the success of a potential attack using Machine Learning]()
-- [Building an interactive dash app to display key information about Terrorism in Nigeria]()
+- [Exploratory Data Analysis of The Global Terrorism Data set.](https://github.com/Shedddy/Terrorism-in-Nigeria-/blob/main/Terrorism_EDA.ipynb)
+- [Prediction of the success of a potential attack using Machine Learning](https://github.com/Shedddy/Terrorism-in-Nigeria-/blob/main/Terrorism_EDA.ipynb)
+- [Building an interactive dash app to display key information about Terrorism in Nigeria](
+https://github.com/Shedddy/Terrorism-in-Nigeria-/blob/main/Terrorism_dashapp.py)
 
 ## Technologies
 - Jupyter Notebook
